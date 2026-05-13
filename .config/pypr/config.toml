@@ -25,3 +25,9 @@ class = "kitty-taskbar"
 size = "30% 80%"
 offset = "200%"
 
+[scratchpads.spotify]
+animation = "fromBottom"
+command = "spotify-launcher"
+class = "Spotify"
+size = "75% 67%"
+offset = "260%"
